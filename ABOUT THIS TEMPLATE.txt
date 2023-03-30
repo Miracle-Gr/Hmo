@@ -5,5 +5,6 @@ You can feel free to edit and use this design for any purpose (personal or busin
 You are NOT allowed to re-distribute my design file for any reason on your template sites or template collection sites.
 
 You can put a screenshot and a link back to our template page. That is helpful for us.
-
+  Assessment 2
+  I used Html,css, javascript and bootstrap.
 THANK YOU
